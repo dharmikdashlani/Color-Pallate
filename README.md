@@ -1,8 +1,7 @@
 <div align="center">
 
-<img  src="https://user-images.githubusercontent.com/102135008/235834211-4fce5fc9-68c5-4538-85fd-99c52ac42c95.png">
+<img  src="https://user-images.githubusercontent.com/102135008/235987190-3974c5e8-d8dd-437f-ba82-09e8a7c05af7.png">
 
-  
   
 # **Color palette App**
 Made by Dharmik Dashlani
@@ -33,6 +32,11 @@ Made by Dharmik Dashlani
 ## 📲 Preview
 
 
+https://user-images.githubusercontent.com/102135008/235988107-f1961e72-1741-4921-929e-8f48dcb102d4.mp4
+
+
+  
+
 ## 📝 License
 
 Copyright © [Dharmik Dashlani](https://github.com/dharmikdashlani). <br>
@@ -41,12 +45,7 @@ This project is [MIT](https://github.com/dharmikdashlani/currrency_converter/blo
 ---
 <div align="center">
 
-
-  
-
-
-
-<img src="https://user-images.githubusercontent.com/102135008/235984656-bb147670-beea-4c94-8c6f-f5f7dae11cbe.png" width="200px" height="200px">
+<img src="https://user-images.githubusercontent.com/102135008/235987898-79ae56c7-cf27-4340-8a46-d67cf9f6a555.png" width="200px" height="200px">
   
 ---
 ### You can show some respect by starring 🌟 the repository!
